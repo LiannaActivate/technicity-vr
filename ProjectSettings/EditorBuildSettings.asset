@@ -14,6 +14,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/_SplashScreen.unity
     guid: 84e00ccaaac2cf74183032ed1f018f3f
+  - enabled: 1
+    path: Assets/Scenes/_03_LaboratorySceneInitial.unity
+    guid: d49d2da452d429e44a5ba87770099e2d
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 666b52611d7e3a94286bd4fb6e61dded, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 80ed4fa2147254345a1f1add6e88a1d5, type: 2}
