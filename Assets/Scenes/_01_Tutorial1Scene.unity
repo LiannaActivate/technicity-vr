@@ -3672,6 +3672,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fader Screen
       objectReference: {fileID: 0}
+    - target: {fileID: 4112878369142109289, guid: a0e127c603ba48b4c881f934e38a967d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 79e5e577c2daa16418c0ffada9b8b396, type: 2}
     - target: {fileID: 7898126834413932441, guid: a0e127c603ba48b4c881f934e38a967d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -6533,6 +6537,6 @@ SceneRoots:
   - {fileID: 143807180}
   - {fileID: 1991229442}
   - {fileID: 359289012}
-  - {fileID: 2223519923261665935}
-  - {fileID: 589566281}
   - {fileID: 1485130700}
+  - {fileID: 589566281}
+  - {fileID: 2223519923261665935}
