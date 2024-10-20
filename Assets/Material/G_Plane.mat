@@ -31,8 +31,8 @@ Material:
     - _GlossyReflections: 1
     - _Parallax: 0.02
     m_Colors:
-    - _BaseColor: {r: 0.2705882, g: 0.4117647, b: 0.145098, a: 1}
-    - _Color: {r: 0.27058816, g: 0.41176468, b: 0.14509797, a: 1}
+    - _BaseColor: {r: 0.67295593, g: 0.67295593, b: 0.67295593, a: 1}
+    - _Color: {r: 0.67295593, g: 0.67295593, b: 0.67295593, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &3847828208269112819
 MonoBehaviour:
