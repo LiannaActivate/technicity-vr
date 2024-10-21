@@ -9,13 +9,16 @@ EditorBuildSettings:
     path: Assets/Scenes/_00_Tutorial1Scene.unity
     guid: f1582bd64d9840f4fb1c5a8c88a6dfee
   - enabled: 1
-    path: Assets/Scenes/_01_LoadingScene.unity
+    path: Assets/Scenes/_01_SplashScreenScene.unity
     guid: 0e8c07eec21635f4c860d3688339b403
   - enabled: 1
     path: Assets/Scenes/_02_MainMenuScene.unity
     guid: 750813a765935cd4295f4475835752ed
   - enabled: 1
-    path: Assets/Scenes/_03_LaboratorySceneInitial.unity
+    path: Assets/Scenes/_03_LoadingScene.unity
+    guid: fa6afac3bd02ebe4ab8f3b8f7aeba522
+  - enabled: 1
+    path: Assets/Scenes/_04_LaboratorySceneInitial.unity
     guid: d49d2da452d429e44a5ba87770099e2d
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 666b52611d7e3a94286bd4fb6e61dded, type: 2}
