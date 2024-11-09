@@ -21,5 +21,6 @@ EditorBuildSettings:
     path: Assets/Scenes/_04_LaboratorySceneInitial.unity
     guid: d49d2da452d429e44a5ba87770099e2d
   m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 4e634ed91a46b4a4cb256309cf76f35b, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 666b52611d7e3a94286bd4fb6e61dded, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 80ed4fa2147254345a1f1add6e88a1d5, type: 2}

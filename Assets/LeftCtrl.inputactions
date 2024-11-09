@@ -1,0 +1,34 @@
+{
+    "name": "LeftCtrl",
+    "maps": [
+        {
+            "name": "ControllerInput",
+            "id": "d54d8ac8-e01b-4338-8464-08760b1d4397",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "d5fe1e2c-731e-4222-bf9f-700ccd920905",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8aa40324-e89a-4159-a8c2-1439452c1a91",
+                    "path": "<XRController>{LeftHand}/menuButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
