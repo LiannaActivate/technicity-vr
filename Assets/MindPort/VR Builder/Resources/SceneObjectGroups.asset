@@ -17,3 +17,5 @@ MonoBehaviour:
     guidString: 7bfa39f5-cfe9-4c07-88e5-fde16e06a626
   - label: PowerTools
     guidString: e4d2fcd0-bf94-47c2-b4e9-45064688e9eb
+  - label: Extinguisher
+    guidString: db70dc6f-61ea-4dad-b7f9-e6c94e865cca
