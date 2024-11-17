@@ -19,3 +19,7 @@ MonoBehaviour:
     guidString: e4d2fcd0-bf94-47c2-b4e9-45064688e9eb
   - label: Extinguisher
     guidString: db70dc6f-61ea-4dad-b7f9-e6c94e865cca
+  - label: PPEs
+    guidString: de2ec9bc-5cf5-45ad-b13d-300ea635c3cd
+  - label: Doors
+    guidString: 4651f4b1-6bc9-4cf8-aad4-5a6160691010
