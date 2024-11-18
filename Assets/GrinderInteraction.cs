@@ -2,13 +2,13 @@ using UnityEngine;
 
 public class GrinderInteraction : MonoBehaviour
 {
-    public AudioSource grindingSound;  // Attach the grinding sound effect
+    public AudioSource grindingSound;  // Optional: Attach a grinding sound
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("GrindableSurface"))
         {
-            // Play audio effect
+            Debug.Log("Started grinding on surface.");
             if (grindingSound != null) grindingSound.Play();
         }
     }
@@ -17,7 +17,6 @@ public class GrinderInteraction : MonoBehaviour
     {
         if (other.CompareTag("GrindableSurface"))
         {
-            // Handle continuous grinding effect
             Debug.Log("Grinding in progress...");
         }
     }
@@ -26,7 +25,7 @@ public class GrinderInteraction : MonoBehaviour
     {
         if (other.CompareTag("GrindableSurface"))
         {
-            // Stop audio effect
+            Debug.Log("Stopped grinding on surface.");
             if (grindingSound != null) grindingSound.Stop();
         }
     }
