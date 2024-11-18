@@ -6,7 +6,7 @@
             "id": "f90bd152-5eae-47e0-a3c1-f75c6da73150",
             "actions": [
                 {
-                    "name": "New action",
+                    "name": "Close UI",
                     "type": "Button",
                     "id": "c309b4fb-eb3a-46b0-8702-6382cf2da31d",
                     "expectedControlType": "",
@@ -18,12 +18,12 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "1fe70ec6-9871-45de-899e-8d4dcb469de3",
-                    "path": "",
+                    "id": "24c49366-5bc0-450d-9d42-0bd0ca7004f3",
+                    "path": "<XRInputV1::Oculus::OculusTouchControllerOpenXR>{RightHand}/primarybutton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "New action",
+                    "action": "Close UI",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
