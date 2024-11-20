@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59e88b9b960d3634abe9123da75e8c3a, type: 3}
+  m_Name: SceneObjectGroups
+  m_EditorClassIdentifier: 
+  groups:
+  - label: HandTools
+    guidString: 7bfa39f5-cfe9-4c07-88e5-fde16e06a626
+  - label: PowerTools
+    guidString: e4d2fcd0-bf94-47c2-b4e9-45064688e9eb
+  - label: Extinguisher
+    guidString: db70dc6f-61ea-4dad-b7f9-e6c94e865cca
+  - label: PPEs
+    guidString: de2ec9bc-5cf5-45ad-b13d-300ea635c3cd
+  - label: Doors
+    guidString: 4651f4b1-6bc9-4cf8-aad4-5a6160691010
