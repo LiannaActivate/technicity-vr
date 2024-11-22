@@ -29,7 +29,7 @@ public class ExitSceneController : MonoBehaviour
 
     private void OnExitScene(InputAction.CallbackContext context)
     {
-        // Load the Main Menu Scene (Scene 02)
-        SceneManager.LoadScene(2); // Replace "2" with your Main Menu Scene index
+        // Load the Main Menu Scene (Scene 06)
+        SceneManager.LoadScene(6); // Replace "2" with your Main Menu Scene index
     }
 }
