@@ -17,15 +17,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/_03_LoadingScene.unity
     guid: fa6afac3bd02ebe4ab8f3b8f7aeba522
-  - enabled: 1
-    path: Assets/Scenes/_04_TutorialScene.unity
+  - enabled: 0
+    path: Assets/Scenes/InitialSamples/_04_TutorialScene.unity
     guid: 3548930b6052eca4eab51553ecd86f54
   - enabled: 1
-    path: Assets/Scenes/_05_Chapter1Laboratory.unity
-    guid: 4a4add6d495d4504e8ed6df6c30ba3dd
-  - enabled: 1
-    path: Assets/Scenes/_06_MainMenuScene.unity
-    guid: 8cd24003141cd9d42b6ebc7ef83982db
+    path: Assets/Scenes/_04_Tutorial-Chapter1Scene.unity
+    guid: 8152c0bb577bc394b97343ee2bc421c9
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 4e634ed91a46b4a4cb256309cf76f35b, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 666b52611d7e3a94286bd4fb6e61dded, type: 2}
